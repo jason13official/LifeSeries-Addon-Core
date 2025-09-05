@@ -8,15 +8,15 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "https://github.com/jason13official/LifeSeries-Addon-Core",
+        "sources": "https://github.com/jason13official/LifeSeries-Addon-Core"
     },
     "license": "${license}",
     "icon": "${mod_id}.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+            "com.cursee.lifeseriesaddons.LifeSeriesFabric"
         ]
     },
     "mixins": [
